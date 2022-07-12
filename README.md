@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Pink Orca
-- 👀 I’m interested in Linux, Programming, Web Design &...
-- 🌱 I’m currently learning PHP
-- 💞️ My official website is https://PinkOrca.net
-- 📫 My Email: Mazloom@PinkOrca.net
+- Happy Geek, programmer, full stack web developer & Linux lover:)
+- Website: https://PinkOrca.net
+- Email: Mazloom@PinkOrca.net
