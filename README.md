@@ -1,3 +1,3 @@
-- Happy Geek, programmer, full stack web developer & Linux lover:)
+- Happy Geek, programmer, full stack web developer & GNU/Linux lover:)
 - Website: https://PinkOrca.net
 - Email: Mail@PinkOrca.net
