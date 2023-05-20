@@ -1,4 +1,4 @@
 - Happy Geek, programmer, full stack web developer & GNU/Linux lover:)
 - Website:   https://PinkOrca.net
 - Email:     Mail@PinkOrca.net
-- Community: https://t.me/PinkOrca_net
+- Channel: https://t.me/PinkOrca
