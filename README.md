@@ -1,4 +1,1 @@
-- Happy Geek, programmer, full stack web developer & GNU/Linux lover:)
-- Website:   https://PinkOrca.net
-- Email:     Mail@PinkOrca.net
-- Channel: https://t.me/PinkOrca
+## I will no longer be active on GitHub. You can follow me on the [Codeberg](https://codeberg.org/PinkOrca).
